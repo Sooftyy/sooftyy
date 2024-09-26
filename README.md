@@ -22,5 +22,5 @@ Welcome to my GitHub profile!
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fd7d485d-9883-475f-86c5-6df47de6994a&theme=dracula&hide_border=false&card_width=320" height="150" alt="WakaTime stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@fd7d485d-9883-475f-86c5-6df47de6994a&theme=dracula&hide_border=false&card_width=320" height="150" alt="WakaTime stats" />
 </div>
