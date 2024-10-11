@@ -14,9 +14,9 @@ I've been hooked on programming since I was like 10 or 11, and honestly, I just 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sooftyy&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sooftyy&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+<!-- ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Sooftyy&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
+-->
 
   # 💰 You can help me by Donating
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/sooftyy) 
