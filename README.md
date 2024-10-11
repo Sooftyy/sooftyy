@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I'm sooftyy! 👋
+Hey, I'm sooftyy! 👋<br>
 I've been hooked on programming since I was like 10 or 11, and honestly, I just love all things tech.<br>Whether it's coding, setting up systems, or messing around with servers, I'm all in. <br>Always down to explore new stuff and keep leveling up my skills!<br>
 
 [![](https://visitcount.itsvg.in/api?id=Sooftyy&icon=0&color=0)](https://visitcount.itsvg.in)
