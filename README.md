@@ -1,6 +1,7 @@
 # 💫 About Me:
-## Hey, I'm sooftyy! 👋<br>I've been hooked on programming since I was like 10 or 11, and honestly, I just love all things tech.<br>Whether it's coding, setting up systems, or messing around with servers, I'm all in. <br>Always down to explore new stuff and keep leveling up my skills!
+## Hey, I'm sooftyy! 👋<br>I've been hooked on programming since I was like 10 or 11, and honestly, I just love all things tech.<br>Whether it's coding, setting up systems, or messing around with servers, I'm all in. <br>Always down to explore new stuff and keep leveling up my skills!<br>
 
+[![](https://visitcount.itsvg.in/api?id=Sooftyy&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@sooftyy_x) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/sooftyy_x) 
@@ -15,8 +16,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Sooftyy&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=Sooftyy&icon=0&color=0)](https://visitcount.itsvg.in)
 
   # 💰 You can help me by Donating
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/sooftyy) 
