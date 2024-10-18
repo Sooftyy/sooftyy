@@ -12,7 +12,7 @@ I've been hooked on programming since I was like 10 or 11, and honestly, I just 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Sooftyy&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sooftyy&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sooftyy&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sooftyy&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=@fd7d485d-9883-475f-86c5-6df47de6994a&theme=dracula&hide_border=false&card_width=320)
 
 <!-- ## 🏆 GitHub Trophies
