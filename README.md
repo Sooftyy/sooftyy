@@ -1,6 +1,5 @@
 ## 💻 Tech Stack:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)  
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) 
@@ -22,9 +21,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=Sooftyy&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sooftyy&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=@fd7d485d-9883-475f-86c5-6df47de6994a&theme=dark&hide_border=true&card_width=320)
-
-  # 💰 You can help me by Donating
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/sooftyy) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
