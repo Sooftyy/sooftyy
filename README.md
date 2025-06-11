@@ -1,12 +1,3 @@
-# 💫 About Me:
-Hey, I'm sooftyy! 👋<br>
-I've been hooked on programming since I was like 10 or 11, and honestly, I just love all things tech.<br>Whether it's coding, setting up systems, or messing around with servers, I'm all in. <br>Always down to explore new stuff and keep leveling up my skills!<br>
-
-[![](https://visitcount.itsvg.in/api?id=sooftyy&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
-
-## 🌐 Socials:
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@sooftyy_x) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/sooftyy_x) 
-
 ## 💻 Tech Stack:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)  
